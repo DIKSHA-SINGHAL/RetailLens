@@ -4,5 +4,5 @@
 # Virtual environment 
 venv/
 
-# csv files
+# kaggle dataset
 data/*.csv
