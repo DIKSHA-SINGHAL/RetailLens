@@ -1,0 +1,8 @@
+# Database credentials
+.env
+
+# Virtual environment 
+venv/
+
+# csv files
+data/*.csv

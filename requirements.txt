@@ -1,0 +1,8 @@
+# =============================================================
+# SQL phase dependencies
+# =============================================================
+
+psycopg2-binary==2.9.12   # driver that lets Python talk to PostgreSQL
+sqlalchemy==2.0.49        # manages the database connection (the "engine")
+pandas==3.0.2             # reads CSVs and writes them to PostgreSQL
+python-dotenv==1.2.2      # reads your .env file into os.getenv()
